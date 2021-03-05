@@ -1,0 +1,10 @@
+H:\Cursos\Alura\Git_Hub\Projetos\Dev1\e0000\bin\Debug\e0000.dll
+H:\Cursos\Alura\Git_Hub\Projetos\Dev1\e0000\bin\Debug\e0000.pdb
+H:\Cursos\Alura\Git_Hub\Projetos\Dev1\e0000\bin\Debug\e0000.xml
+H:\Cursos\Alura\Git_Hub\Projetos\Dev1\e0000\obj\Debug\e0000.vbprojAssemblyReference.cache
+H:\Cursos\Alura\Git_Hub\Projetos\Dev1\e0000\obj\Debug\e0000.Resources.resources
+H:\Cursos\Alura\Git_Hub\Projetos\Dev1\e0000\obj\Debug\e0000.vbproj.GenerateResource.cache
+H:\Cursos\Alura\Git_Hub\Projetos\Dev1\e0000\obj\Debug\e0000.vbproj.CoreCompileInputs.cache
+H:\Cursos\Alura\Git_Hub\Projetos\Dev1\e0000\obj\Debug\e0000.dll
+H:\Cursos\Alura\Git_Hub\Projetos\Dev1\e0000\obj\Debug\e0000.xml
+H:\Cursos\Alura\Git_Hub\Projetos\Dev1\e0000\obj\Debug\e0000.pdb
